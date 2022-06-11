@@ -14,6 +14,7 @@
 		92BCEA5928542D1700DBEA59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92BCEA5828542D1700DBEA59 /* Assets.xcassets */; };
 		92BCEA5C28542D1700DBEA59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92BCEA5A28542D1700DBEA59 /* LaunchScreen.storyboard */; };
 		92BCEA6428542F8800DBEA59 /* learntoUseGithubWihText.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 92BCEA6328542F8800DBEA59 /* learntoUseGithubWihText.rtf */; };
+		92BCEA66285430C800DBEA59 /* learnToUseGitHub.txt in Resources */ = {isa = PBXBuildFile; fileRef = 92BCEA65285430C800DBEA59 /* learnToUseGitHub.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		92BCEA5B28542D1700DBEA59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92BCEA5D28542D1700DBEA59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92BCEA6328542F8800DBEA59 /* learntoUseGithubWihText.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = learntoUseGithubWihText.rtf; sourceTree = "<group>"; };
+		92BCEA65285430C800DBEA59 /* learnToUseGitHub.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = learnToUseGitHub.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		92BCEA4328542D1500DBEA59 = {
 			isa = PBXGroup;
 			children = (
+				92BCEA65285430C800DBEA59 /* learnToUseGitHub.txt */,
 				92BCEA6328542F8800DBEA59 /* learntoUseGithubWihText.rtf */,
 				92BCEA4E28542D1500DBEA59 /* learnToUseGithub */,
 				92BCEA4D28542D1500DBEA59 /* Products */,
@@ -131,6 +134,7 @@
 				92BCEA5C28542D1700DBEA59 /* LaunchScreen.storyboard in Resources */,
 				92BCEA5928542D1700DBEA59 /* Assets.xcassets in Resources */,
 				92BCEA5728542D1500DBEA59 /* Main.storyboard in Resources */,
+				92BCEA66285430C800DBEA59 /* learnToUseGitHub.txt in Resources */,
 				92BCEA6428542F8800DBEA59 /* learntoUseGithubWihText.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
